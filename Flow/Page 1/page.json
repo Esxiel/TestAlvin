@@ -20,9 +20,6 @@
     "x": 0,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -42,6 +39,10 @@
     {
       "class": "text",
       "id": "29F57A51-C43D-448D-B35D-710E48C21228"
+    },
+    {
+      "class": "text",
+      "id": "A16FFF29-8FA6-4C7D-A69F-AE8D5D8783D6"
     }
   ],
   "name": "Page 1",
